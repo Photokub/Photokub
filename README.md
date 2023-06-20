@@ -15,11 +15,13 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3" />
 <img alt="JQuery" src="https://img.shields.io/badge/JQuery-%239c3493?style=flat-square&logo=JQuery" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="BEM" src="https://img.shields.io/badge/BEM-black?style=flat-square&logo=bem" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/Express.js-%23ddd?style=flat-square&logo=Express&logoColor=black" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23099639?style=flat-square&logo=Nginx" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ### Подписывайся и оставайся на связи:
