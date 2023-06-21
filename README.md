@@ -22,8 +22,9 @@
 <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23099639?style=flat-square&logo=Nginx" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+</p>  
 
+![](https://github.com/Photokub/Photokub/blob/master/langs.svg)
 
 ### Подписывайся и оставайся на связи:
 
@@ -35,4 +36,3 @@
   <img align="left" alt="linkedin" width="15px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
