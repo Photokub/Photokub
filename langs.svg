@@ -59,7 +59,7 @@
         }
 
         div.ellipsis {
-        height: 80%;
+        height: 100%;
         overflow: hidden;
         text-overflow: ellipsis;
         }
@@ -101,21 +101,31 @@
             <foreignObject>
                 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-                    <h2>Используемые языки</h2>
+                    <h2>Приемущественно используемые языки</h2>
 
                     <div>
                         <span class="progress">
-                            <span style="background-color: #e34c26;width: 19.58%;" class="progress-item"></span>
-                            <span style="background-color: #f1e05a;width: 37.4%;" class="progress-item"></span>
                             <span style="background-color: #563d7c;width: 32.7%;" class="progress-item"></span>
+                            <span style="background-color: #e34c26;width: 19.58%;" class="progress-item"></span>
+                            <span style="background-color: #f1e05a;width: 21%;" class="progress-item"></span>
+                            <span style="background-color: #438eff;width: 21%;" class="progress-item"></span>
                             <span style="background-color: #2b7489;width: 5.0%;" class="progress-item"></span>
-                            <span style="background-color: #438eff;width: 5.0%;" class="progress-item"></span>
                         </span>
                     </div>
 
                     <ul>
 
                         <li style="animation-delay: 0ms;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+                                 viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                                <path
+                                        fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+                            </svg>
+                            <span class="lang">CSS</span>
+                            <span class="percent">32,7%</span>
+                        </li>
+
+                        <li style="animation-delay: 100ms;">
                             <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
                                  viewBox="0 0 16 16" version="1.1" width="16" height="16">
                                 <path
@@ -126,45 +136,33 @@
                         </li>
 
 
-                        <li style="animation-delay: 150ms;">
+                        <li style="animation-delay: 200ms;">
                             <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
                                  viewBox="0 0 16 16" version="1.1" width="16" height="16">
                                 <path
                                         fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                             </svg>
                             <span class="lang">JavaScript</span>
-                            <span class="percent">37,4%</span>
+                            <span class="percent">21%</span>
                         </li>
-
 
                         <li style="animation-delay: 300ms;">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
-                                 viewBox="0 0 16 16" version="1.1" width="16" height="16">
-                                <path
-                                        fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
-                            </svg>
-                            <span class="lang">CSS</span>
-                            <span class="percent">32,7%</span>
-                        </li>
-
-
-                        <li style="animation-delay: 450ms;">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b7489;"
-                                 viewBox="0 0 16 16" version="1.1" width="16" height="16">
-                                <path
-                                        fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
-                            </svg>
-                            <span class="lang">TypeScript</span>
-                            <span class="percent">5,0%</span>
-                        </li>
-
-                        <li style="animation-delay: 550ms;">
                             <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#438eff;"
                                  viewBox="0 0 16 16" version="1.1" width="16" height="16">
                                 <path
                                         fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                             </svg>
                             <span class="lang">React</span>
+                            <span class="percent">21%</span>
+                        </li>
+
+                        <li style="animation-delay: 400ms;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b7489;"
+                                 viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                                <path
+                                        fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+                            </svg>
+                            <span class="lang">TypeScript</span>
                             <span class="percent">5,0%</span>
                         </li>
 
