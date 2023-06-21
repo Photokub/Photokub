@@ -24,6 +24,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+
 ### Подписывайся и оставайся на связи:
 
 <a href="https://www.youtube.com/@Aleksandr_Kub/videos">
@@ -33,3 +34,5 @@
 <a href="linkedin.com/in/kubyshkin-aleksandr-5a3706ab">
   <img align="left" alt="linkedin" width="15px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
+
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
