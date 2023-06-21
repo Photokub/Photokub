@@ -105,11 +105,11 @@
 
                     <div>
                         <span class="progress">
-                            <span style="background-color: #e34c26;width: 19,58%;" class="progress-item"></span>
-                            <span style="background-color: #f1e05a;width: 37,4%;" class="progress-item"></span>
-                            <span style="background-color: #563d7c;width: 32,7%;" class="progress-item"></span>
-                            <span style="background-color: #2b7489;width: 5,0%;" class="progress-item"></span>
-                            <span style="background-color: #438eff;width: 5,0%;" class="progress-item"></span>
+                            <span style="background-color: #e34c26;width: 19.58%;" class="progress-item"></span>
+                            <span style="background-color: #f1e05a;width: 37.4%;" class="progress-item"></span>
+                            <span style="background-color: #563d7c;width: 32.7%;" class="progress-item"></span>
+                            <span style="background-color: #2b7489;width: 5.0%;" class="progress-item"></span>
+                            <span style="background-color: #438eff;width: 5.0%;" class="progress-item"></span>
                         </span>
                     </div>
 
