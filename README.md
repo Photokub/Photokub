@@ -22,6 +22,7 @@
 <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23099639?style=flat-square&logo=Nginx" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="EsLint" src="https://img.shields.io/badge/ESLint-%234b32c3?style=flat-square&logo=ESLint&logoColor=white" />
 </p>  
 
 ![](https://github.com/Photokub/Photokub/blob/master/langs.svg)
